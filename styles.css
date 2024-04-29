@@ -1,0 +1,109 @@
+
+.col-3 {
+    height: auto;
+}
+
+
+.logo-title {
+    width: 50%;
+    margin: 2.1rem 25% 3rem;
+}
+
+
+ul.navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navContainer {
+    background-color: aliceblue;
+    border-color: #5b6065;
+    border-style: solid;
+    border-width: medium;
+    padding-bottom: 1.2rem;
+    font-size: 2rem;
+}
+
+.logo {
+    width: 6rem;
+    padding-left: 1rem;
+    margin-bottom: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.student-menu {
+    display: none;
+}
+
+.student-menu-toggler:hover .student-menu {
+    display: block;
+}
+
+h2 {
+    padding: 60px;
+}
+
+.carousel {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.image-slider {
+    transition: transform .2s;
+}
+
+.image-slider:hover {
+    transform: scale(120%);
+}
+
+h3 {
+    border-left: crimson 6px solid;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+iframe {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.document-container {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.document-container h3 {
+    margin-bottom: 10px;
+}
+
+.document-container a {
+    display: block;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.document-container a:hover {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+.ceng-img {
+    width: 1000px;
+}
+
+.list-group-head {
+    background-color: #350404;
+    color: white;
+}
+
+.students-group-head {
+    background-color: rgba(53, 4, 4, 0.53);
+    color: #000000;
+}
